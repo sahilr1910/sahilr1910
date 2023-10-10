@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sahil Rustogi<br>A passionate Data Scientist from India<br><br>
+Hi 👋, I'm Sahil Rustagi<br>A passionate Data Scientist from India<br><br>
 
 
 ## 🌐 Socials:
